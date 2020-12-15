@@ -1,2 +1,4 @@
 # gitw3
 week3git
+I am editing the README file.
+ Adding some more details about the project description.
